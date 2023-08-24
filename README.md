@@ -24,11 +24,12 @@ The GPA Calculator App is a simple and user-friendly mobile application built us
 ## Usage
 
 1. Open the GPA Calculator App on your device.
-2. Tap the "+" button to add a new course.
-3. Enter the course name.
-4. Choose the grade you've received (you can use either letters or numbers).
-5. Enter the credit hours of the course.
-6. Tap "Calculate" to view your GPA.
+2. Enter max Degree for the course and tap "Next" button.
+3. Enter the course Degree.
+4. Enter the credit hours of the course.
+5. Tap the "Next" button to add a new course.
+6. Once you finish entering Degrees and credit hours tap the "Next" button.
+7. Tap "Submit" to view your Results.
 
 ## Screenshots
 
