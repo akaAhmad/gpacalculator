@@ -40,6 +40,3 @@ The GPA Calculator App is a simple and user-friendly mobile application built us
 
 Contributions are welcome! If you find any issues or want to enhance the app with new features, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
